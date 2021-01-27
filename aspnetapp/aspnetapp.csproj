@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>57393389627611478466</UserSecretsId>
+    <RuntimeIdentifiers>win-x86;win-x64;win-arm;linux-x64;linux-arm</RuntimeIdentifiers>
   </PropertyGroup>
 
 </Project>
